@@ -72,10 +72,6 @@ button i {
     margin-right: 10px;
 }
 
-button:hover{
-    background-color: black;
-    /* color: red; */
-}
 
 select{
     flex: 1;
